@@ -1,0 +1,1 @@
+librosa.output.write_wav("generated_chinese_audio.wav", audio_pred, sr=16000)
